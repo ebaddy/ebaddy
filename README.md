@@ -61,15 +61,17 @@
 </div>
 
 <br/>
+<br/>
+<br/>
 <div align="center">
   
-  <a href="https://linkedin.com/in/prasetyabudikusuma">
+  <a href="https://linkedin.com/in/prasetyabudikusuma" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prasetyabk55@gmail.com">
+  <a href="mailto:prasetyabk55@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Send_me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ebaddy">
+  <a href="https://instagram.com/ebaddy" target="_blank">
     <img src="https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
